@@ -1,9 +1,6 @@
 package salem;
 public class Parent
 {
-//public => class method constructor variables
-//private => constructor variables method
-//default(__) => class variable constructor method
 public Parent(int i){
 
 }
@@ -29,6 +26,3 @@ protected void checkBalance(){
 }
 
 }
-
-
-

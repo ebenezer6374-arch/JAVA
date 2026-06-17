@@ -1,13 +1,15 @@
-
+package madurai;
+import salem.Parent;
 public class Yaro2 extends Parent
 {
 
+
 public static void main(String[] args)
 {
-Parent pp = new Parent(10);
-    pp.makeBiriyani();
-    pp.checkBalance();
-    System.out.println(pp.atmPin);
+Yaro2 obj = new Yaro2();
+  obj.makeBiriyani();
+    obj.checkBalance();
+    System.out.println(obj.atmPin);
 }
 
 
