@@ -40,3 +40,4 @@ class SQLTrainer extends Scenario1 {
         System.out.println(ram.getSalary());
                     }
             }
+
