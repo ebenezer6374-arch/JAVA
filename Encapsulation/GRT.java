@@ -1,13 +1,13 @@
+package Encapsulation;
 public class GRT
 {
 
-//pojo
-//plain old java object
+
 private int price  = 14200;
 
 
 //getter method
-public int getPrice(){;
+public int getPrice(){
     return this.price;
 }
 
