@@ -7,6 +7,8 @@ public static void main (String [] args){
 
                     grt.setPrice(14500);
                     System.out.println(grt.getPrice());
-                    grt.setPrice(14000);
-        }
+
+                    grt.setPrice(12000);
+//                              System.out.println(grt.setPrice(91000));
+        } 
     }
