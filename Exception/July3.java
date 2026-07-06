@@ -16,7 +16,7 @@ public class July3{
     public static void main(String[] args) {
         July3 h1 = new July3(25,"kambar st",30);
         July3 h2 = new July3(30,"seran st",50);
-        h2.comparePrice(h2);
+        h2.comparePrice(h1);
     }
 
     public void comparePrice(July3 h) {
