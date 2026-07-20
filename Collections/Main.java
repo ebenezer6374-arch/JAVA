@@ -27,9 +27,7 @@ public class Main {
     }
 }
 
-/*-----------------------------------------
-              PRODUCT CLASS
-------------------------------------------*/
+
 
 class Product {
 
@@ -72,9 +70,6 @@ class Product {
     }
 }
 
-/*-----------------------------------------
-          PRODUCT SERVICE CLASS
-------------------------------------------*/
 
 class ProductService {
 
@@ -116,9 +111,6 @@ class ProductService {
 
 }
 
-/*-----------------------------------------
-          PRICE COMPARATOR
-------------------------------------------*/
 
 class PriceComparator implements Comparator<Product> {
 
@@ -131,9 +123,6 @@ class PriceComparator implements Comparator<Product> {
 
 }
 
-/*-----------------------------------------
-          RATING COMPARATOR
-------------------------------------------*/
 
 class RatingComparator implements Comparator<Product> {
 
